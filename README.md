@@ -35,6 +35,9 @@ You need the following to start working on the project on your local computer:
 * Boostrap
 * Flask
 
+## Live link on Heruku
+    https://new-of-the-day.herokuapp.com/
+
 ## License
 
 MIT License
